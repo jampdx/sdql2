@@ -1,0 +1,105 @@
+ROT, abbreviation, ats margin, ats streak, attendance, average punt yards, city, completions, date, day, division, dpa, dps, first downs, fumbles, fumbles lost, game number, interception return yards, interceptions, interceptions returned, kickoff return yards, kickoffs returned, line, losses, margin, margin after the first, margin after the third, margin at the half, matchup losses, matchup wins, month, opponents, ou margin, ou streak, overtime, passes, passing first downs, passing yards, penalties, penalties yards, penalty first downs, penalty yards, playoffs, points, punt return yards, punts, punts returned, quarter scores, rest, return yards, rushes, rushing first downs, rushing yards, sacks, season, site, site streak, start time, streak, tackles, team, time of possession, total, turnover margin, turnovers, week, wins
+,,,0,,,,,20200524,Sunday,West,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,home,0,1600,0,,Blue Bombers,,,,,50,0
+,,,0,,,,,20200524,Sunday,West,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,away,0,1600,0,,Eskimos,,,,,50,0
+,,,0,,,,,20200528,Thursday,East,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,home,0,1100,0,,Argonauts,,,,,51,0
+,,,0,,,,,20200528,Thursday,East,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,away,0,1100,0,,Tiger Cats,,,,,51,0
+,,,0,,,,,20200529,Friday,East,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,home,0,1930,0,,Redblacks,,,,,51,0
+,,,0,,,,,20200529,Friday,East,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,away,0,1930,0,,Alouettes,,,,,51,0
+,,,0,,,,,20200530,Saturday,West,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,home,0,1600,0,,Stampeders,,,,,51,0
+,,,0,,,,,20200530,Saturday,West,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,away,0,1600,0,,Roughriders,,,,,51,0
+,,,,,,,,20200530,Saturday,West,,,,,,2,,,,,,,0,,,,,0,0,5,['Blue Bombers'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,-1,1600,,,Eskimos,,,,,51,0
+,,,0,,,,,20200530,Saturday,West,,,,,,1,,,,,,,0,,,,,0,0,5,[],,0,,,,,,,,,1,,,,,,,,,,,,2020,away,0,1600,0,,Lions,,,,,51,0
+,,,,,,,,20200604,Thursday,East,,,,,,2,,,,,,,0,,,,,0,0,6,['Argonauts'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-1,1930,,,Tiger Cats,,,,,52,0
+,,,,,,,,20200604,Thursday,East,,,,,,2,,,,,,,0,,,,,0,0,6,['Alouettes'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,1,1930,,,Redblacks,,,,,52,0
+,,,,,,,,20200605,Friday,West,,,,,,2,,,,,,,0,,,,,0,0,6,['Stampeders'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,-1,2130,,,Roughriders,,,,,52,0
+,,,,,,,,20200605,Friday,West,,,,,,2,,,,,,,0,,,,,0,0,6,['Eskimos'],,,,,,,,,,,1,,,,,,11,,,,,,2020,away,1,2130,,,Blue Bombers,,,,,52,0
+,,,,,,,,20200605,Friday,West,,,,,,2,,,,,,,0,,,,,0,0,6,['Eskimos'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,-1,2200,,,Lions,,,,,52,0
+,,,,,,,,20200605,Friday,West,,,,,,2,,,,,,,0,,,,,0,0,6,['Roughriders'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,1,2200,,,Stampeders,,,,,52,0
+,,,,,,,,20200606,Saturday,East,,,,,,2,,,,,,,0,,,,,0,0,6,['Redblacks'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,-1,1300,,,Alouettes,,,,,52,0
+,,,,,,,,20200606,Saturday,East,,,,,,2,,,,,,,0,,,,,0,0,6,['Tiger Cats'],,,,,,,,,,,1,,,,,,8,,,,,,2020,away,1,1300,,,Argonauts,,,,,52,0
+,,,,,,,,20200611,Thursday,West,,,,,,3,,,,,,,0,,,,,0,0,6,['Blue Bombers', 'Lions'],,,,,,,,,,,1,,,,,,11,,,,,,2020,home,1,2100,,,Eskimos,,,,,53,0
+,,,,,,,,20200611,Thursday,West,,,,,,3,,,,,,,0,,,,,0,0,6,['Eskimos', 'Stampeders'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,1,2100,,,Lions,,,,,53,0
+,,,,,,,,20200612,Friday,East,,,,,,3,,,,,,,0,,,,,0,0,6,['Alouettes', 'Tiger Cats'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,-1,1900,,,Redblacks,,,,,53,0
+,,,,,,,,20200612,Friday,East,,,,,,3,,,,,,,0,,,,,0,0,6,['Tiger Cats', 'Alouettes'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,-1,1900,,,Argonauts,,,,,53,0
+,,,,,,,,20200612,Friday,West,,,,,,3,,,,,,,0,,,,,0,0,6,['Roughriders', 'Lions'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-1,2200,,,Stampeders,,,,,53,0
+,,,,,,,,20200612,Friday,East,,,,,,3,,,,,,,0,,,,,0,0,6,['Redblacks', 'Argonauts'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,1,2200,,,Alouettes,,,,,53,0
+,,,,,,,,20200613,Saturday,East,,,,,,3,,,,,,,0,,,,,0,0,6,['Argonauts', 'Redblacks'],,,,,,,,,,,1,,,,,,8,,,,,,2020,home,1,1900,,,Tiger Cats,,,,,53,0
+,,,,,,,,20200613,Saturday,West,,,,,,3,,,,,,,0,,,,,0,0,6,['Eskimos', 'Roughriders'],,,,,,,,,,,1,,,,,,7,,,,,,2020,away,-1,1900,,,Blue Bombers,,,,,53,0
+,,,,,,,,20200618,Thursday,West,,,,,,4,,,,,,,0,,,,,0,0,6,['Roughriders', 'Lions', 'Alouettes'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,1,2100,,,Stampeders,,,,,54,0
+,,,,,,,,20200618,Thursday,West,,,,,,4,,,,,,,0,,,,,0,0,6,['Eskimos', 'Stampeders', 'Eskimos'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,-1,2100,,,Lions,,,,,54,0
+,,,,,,,,20200619,Friday,West,,,,,,3,,,,,,,0,,,,,0,0,6,['Stampeders', 'Blue Bombers'],,,,,,,,,,,1,,,,,,13,,,,,,2020,home,1,2100,,,Roughriders,,,,,54,0
+,,,,,,,,20200619,Friday,East,,,,,,4,,,,,,,0,,,,,0,0,6,['Redblacks', 'Argonauts', 'Stampeders'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,-1,2100,,,Alouettes,,,,,54,0
+,,,,,,,,20200620,Saturday,East,,,,,,4,,,,,,,0,,,,,0,0,6,['Tiger Cats', 'Alouettes', 'Redblacks'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,-2,1900,,,Argonauts,,,,,54,0
+,,,,,,,,20200620,Saturday,East,,,,,,4,,,,,,,0,,,,,0,0,6,['Argonauts', 'Redblacks', 'Blue Bombers'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,2,1900,,,Tiger Cats,,,,,54,0
+,,,,,,,,20200620,Saturday,West,,,,,,4,,,,,,,0,,,,,0,0,6,['Blue Bombers', 'Lions', 'Lions'],,,,,,,,,,,1,,,,,,8,,,,,,2020,home,2,2200,,,Eskimos,,,,,54,0
+,,,,,,,,20200620,Saturday,East,,,,,,4,,,,,,,0,,,,,0,0,6,['Alouettes', 'Tiger Cats', 'Argonauts'],,,,,,,,,,,1,,,,,,7,,,,,,2020,away,1,2200,,,Redblacks,,,,,54,0
+,,,,,,,,20200625,Thursday,East,,,,,,5,,,,,,,0,,,,,0,0,6,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts'],,,,,,,,,,,1,,,,,,4,,,,,,2020,home,-1,1930,,,Tiger Cats,,,,,55,0
+,,,,,,,,20200625,Thursday,West,,,,,,4,,,,,,,0,,,,,0,0,6,['Stampeders', 'Blue Bombers', 'Alouettes'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,2,1930,,,Roughriders,,,,,55,0
+,,,,,,,,20200626,Friday,West,,,,,,4,,,,,,,0,,,,,0,0,6,['Eskimos', 'Roughriders', 'Tiger Cats'],,,,,,,,,,,1,,,,,,12,,,,,,2020,home,-2,2030,,,Blue Bombers,,,,,55,0
+,,,,,,,,20200626,Friday,West,,,,,,5,,,,,,,0,,,,,0,0,6,['Roughriders', 'Lions', 'Alouettes', 'Lions'],,,,,,,,,,,1,,,,,,7,,,,,,2020,away,2,2030,,,Stampeders,,,,,55,0
+,,,,,,,,20200627,Saturday,West,,,,,,5,,,,,,,0,,,,,0,0,6,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders'],,,,,,,,,,,1,,,,,,8,,,,,,2020,home,-2,1900,,,Lions,,,,,55,0
+,,,,,,,,20200627,Saturday,West,,,,,,5,,,,,,,0,,,,,0,0,6,['Blue Bombers', 'Lions', 'Lions', 'Redblacks'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,3,1900,,,Eskimos,,,,,55,0
+,,,,,,,,20200702,Thursday,East,,,,,,5,,,,,,,0,,,,,0,0,7,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders'],,,,,,,,,,,1,,,,,,12,,,,,,2020,home,-2,1900,,,Alouettes,,,,,56,0
+,,,,,,,,20200702,Thursday,East,,,,,,5,,,,,,,0,,,,,0,0,7,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos'],,,,,,,,,,,1,,,,,,11,,,,,,2020,away,-1,1900,,,Redblacks,,,,,56,0
+,,,,,,,,20200703,Friday,West,,,,,,6,,,,,,,0,,,,,0,0,7,['Blue Bombers', 'Lions', 'Lions', 'Redblacks', 'Lions'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,-1,2100,,,Eskimos,,,,,56,0
+,,,,,,,,20200703,Friday,West,,,,,,5,,,,,,,0,,,,,0,0,7,['Eskimos', 'Roughriders', 'Tiger Cats', 'Stampeders'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,1,2100,,,Blue Bombers,,,,,56,0
+,,,,,,,,20200704,Saturday,East,,,,,,5,,,,,,,0,,,,,0,0,7,['Tiger Cats', 'Alouettes', 'Redblacks', 'Tiger Cats'],,,,,,,,,,,1,,,,,,13,,,,,,2020,home,1,1900,,,Argonauts,,,,,56,0
+,,,,,,,,20200704,Saturday,West,,,,,,6,,,,,,,0,,,,,0,0,7,['Roughriders', 'Lions', 'Alouettes', 'Lions', 'Blue Bombers'],,,,,,,,,,,1,,,,,,7,,,,,,2020,away,-1,1900,,,Stampeders,,,,,56,0
+,,,,,,,,20200704,Saturday,West,,,,,,5,,,,,,,0,,,,,0,0,7,['Stampeders', 'Blue Bombers', 'Alouettes', 'Tiger Cats'],,,,,,,,,,,1,,,,,,8,,,,,,2020,home,-1,2130,,,Roughriders,,,,,56,0
+,,,,,,,,20200704,Saturday,West,,,,,,6,,,,,,,0,,,,,0,0,7,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders', 'Eskimos'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,1,2130,,,Lions,,,,,56,0
+,,,,,,,,20200709,Thursday,West,,,,,,6,,,,,,,0,,,,,0,0,7,['Eskimos', 'Roughriders', 'Tiger Cats', 'Stampeders', 'Eskimos'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,-1,2030,,,Blue Bombers,,,,,57,0
+,,,,,,,,20200709,Thursday,East,,,,,,6,,,,,,,0,,,,,0,0,7,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders', 'Redblacks'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,1,2030,,,Alouettes,,,,,57,0
+,,,,,,,,20200710,Friday,East,,,,,,6,,,,,,,0,,,,,0,0,7,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts', 'Roughriders'],,,,,,,,,,,1,,,,,,14,,,,,,2020,home,1,1930,,,Tiger Cats,,,,,57,0
+,,,,,,,,20200710,Friday,West,,,,,,7,,,,,,,0,,,,,0,0,7,['Roughriders', 'Lions', 'Alouettes', 'Lions', 'Blue Bombers', 'Argonauts'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,-2,1930,,,Stampeders,,,,,57,0
+,,,,,,,,20200711,Saturday,West,,,,,,6,,,,,,,0,,,,,0,0,7,['Stampeders', 'Blue Bombers', 'Alouettes', 'Tiger Cats', 'Lions'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,1,1900,,,Roughriders,,,,,57,0
+,,,,,,,,20200711,Saturday,East,,,,,,6,,,,,,,0,,,,,0,0,7,['Tiger Cats', 'Alouettes', 'Redblacks', 'Tiger Cats', 'Stampeders'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,2,1900,,,Argonauts,,,,,57,0
+,,,,,,,,20200711,Saturday,West,,,,,,7,,,,,,,0,,,,,0,0,7,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders', 'Eskimos', 'Roughriders'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-1,2200,,,Lions,,,,,57,0
+,,,,,,,,20200711,Saturday,East,,,,,,6,,,,,,,0,,,,,0,0,7,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos', 'Alouettes'],,,,,,,,,,,1,,,,,,8,,,,,,2020,away,-2,2200,,,Redblacks,,,,,57,0
+,,,,,,,,20200716,Thursday,West,,,,,,7,,,,,,,0,,,,,0,0,7,['Eskimos', 'Roughriders', 'Tiger Cats', 'Stampeders', 'Eskimos', 'Alouettes'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,1,2030,,,Blue Bombers,,,,,58,0
+,,,,,,,,20200716,Thursday,West,,,,,,8,,,,,,,0,,,,,0,0,7,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders', 'Eskimos', 'Roughriders', 'Redblacks'],,,,,,,,,,,1,,,,,,4,,,,,,2020,away,1,2030,,,Lions,,,,,58,0
+,,,,,,,,20200717,Friday,East,,,,,,7,,,,,,,0,,,,,0,0,7,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders', 'Redblacks', 'Blue Bombers'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,-1,1900,,,Alouettes,,,,,58,0
+,,,,,,,,20200717,Friday,West,,,,,,8,,,,,,,0,,,,,0,0,7,['Roughriders', 'Lions', 'Alouettes', 'Lions', 'Blue Bombers', 'Argonauts', 'Tiger Cats'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,-3,1900,,,Stampeders,,,,,58,0
+,,,,,,,,20200717,Friday,West,,,,,,7,,,,,,,0,,,,,0,0,7,['Blue Bombers', 'Lions', 'Lions', 'Redblacks', 'Lions', 'Blue Bombers'],,,,,,,,,,,1,,,,,,13,,,,,,2020,home,1,2130,,,Eskimos,,,,,58,0
+,,,,,,,,20200717,Friday,East,,,,,,7,,,,,,,0,,,,,0,0,7,['Tiger Cats', 'Alouettes', 'Redblacks', 'Tiger Cats', 'Stampeders', 'Roughriders'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,-1,2130,,,Argonauts,,,,,58,0
+,,,,,,,,20200718,Saturday,East,,,,,,7,,,,,,,0,,,,,0,0,7,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos', 'Alouettes', 'Lions'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-3,1900,,,Redblacks,,,,,58,0
+,,,,,,,,20200718,Saturday,East,,,,,,7,,,,,,,0,,,,,0,0,7,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts', 'Roughriders', 'Stampeders'],,,,,,,,,,,1,,,,,,7,,,,,,2020,away,2,1900,,,Tiger Cats,,,,,58,0
+,,,,,,,,20200723,Thursday,West,,,,,,9,,,,,,,0,,,,,0,0,7,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders', 'Eskimos', 'Roughriders', 'Redblacks', 'Blue Bombers'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-1,2200,,,Lions,,,,,59,0
+,,,,,,,,20200723,Thursday,East,,,,,,8,,,,,,,0,,,,,0,0,7,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Stampeders'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,1,2200,,,Alouettes,,,,,59,0
+,,,,,,,,20200724,Friday,East,,,,,,8,,,,,,,0,,,,,0,0,7,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos', 'Alouettes', 'Lions', 'Tiger Cats'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,1,1900,,,Redblacks,,,,,59,0
+,,,,,,,,20200724,Friday,West,,,,,,8,,,,,,,0,,,,,0,0,7,['Blue Bombers', 'Lions', 'Lions', 'Redblacks', 'Lions', 'Blue Bombers', 'Argonauts'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,2,1900,,,Eskimos,,,,,59,0
+,,,,,,,,20200725,Saturday,East,,,,,,8,,,,,,,0,,,,,0,0,7,['Tiger Cats', 'Alouettes', 'Redblacks', 'Tiger Cats', 'Stampeders', 'Roughriders', 'Eskimos'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,-2,1600,,,Argonauts,,,,,59,0
+,,,,,,,,20200725,Saturday,West,,,,,,7,,,,,,,0,,,,,0,0,7,['Stampeders', 'Blue Bombers', 'Alouettes', 'Tiger Cats', 'Lions', 'Argonauts'],,,,,,,,,,,1,,,,,,13,,,,,,2020,away,2,1600,,,Roughriders,,,,,59,0
+,,,,,,,,20200725,Saturday,West,,,,,,9,,,,,,,0,,,,,0,0,7,['Roughriders', 'Lions', 'Alouettes', 'Lions', 'Blue Bombers', 'Argonauts', 'Tiger Cats', 'Alouettes'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,-4,1900,,,Stampeders,,,,,59,0
+,,,,,,,,20200725,Saturday,East,,,,,,8,,,,,,,0,,,,,0,0,7,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts', 'Roughriders', 'Stampeders', 'Redblacks'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,-1,1900,,,Tiger Cats,,,,,59,0
+,,,,,,,,20200730,Thursday,West,,,,,,8,,,,,,,0,,,,,0,0,7,['Stampeders', 'Blue Bombers', 'Alouettes', 'Tiger Cats', 'Lions', 'Argonauts', 'Argonauts'],,,,,,,,,,,1,,,,,,4,,,,,,2020,home,-1,2100,,,Roughriders,,,,,60,0
+,,,,,,,,20200730,Thursday,East,,,,,,9,,,,,,,0,,,,,0,0,7,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos', 'Alouettes', 'Lions', 'Tiger Cats', 'Eskimos'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,2,2100,,,Redblacks,,,,,60,0
+,,,,,,,,20200731,Friday,East,,,,,,9,,,,,,,0,,,,,0,0,7,['Tiger Cats', 'Alouettes', 'Redblacks', 'Tiger Cats', 'Stampeders', 'Roughriders', 'Eskimos', 'Roughriders'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,1,1900,,,Argonauts,,,,,60,0
+,,,,,,,,20200731,Friday,West,,,,,,8,,,,,,,0,,,,,0,0,7,['Eskimos', 'Roughriders', 'Tiger Cats', 'Stampeders', 'Eskimos', 'Alouettes', 'Lions'],,,,,,,,,,,1,,,,,,14,,,,,,2020,away,2,1900,,,Blue Bombers,,,,,60,0
+,,,,,,,,20200731,Friday,West,,,,,,9,,,,,,,0,,,,,0,0,7,['Blue Bombers', 'Lions', 'Lions', 'Redblacks', 'Lions', 'Blue Bombers', 'Argonauts', 'Redblacks'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-1,2130,,,Eskimos,,,,,60,0
+,,,,,,,,20200731,Friday,East,,,,,,9,,,,,,,0,,,,,0,0,7,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts', 'Roughriders', 'Stampeders', 'Redblacks', 'Stampeders'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,-2,2130,,,Tiger Cats,,,,,60,0
+,,,,,,,,20200801,Saturday,East,,,,,,9,,,,,,,0,,,,,0,0,8,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Stampeders', 'Lions'],,,,,,,,,,,1,,,,,,8,,,,,,2020,home,-1,1900,,,Alouettes,,,,,60,0
+,,,,,,,,20200801,Saturday,West,,,,,,10,,,,,,,0,,,,,0,0,8,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders', 'Eskimos', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Alouettes'],,,,,,,,,,,1,,,,,,8,,,,,,2020,away,1,1900,,,Lions,,,,,60,0
+,,,,,,,,20200806,Thursday,East,,,,,,10,,,,,,,0,,,,,0,0,8,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos', 'Alouettes', 'Lions', 'Tiger Cats', 'Eskimos', 'Roughriders'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-1,1930,,,Redblacks,,,,,61,0
+,,,,,,,,20200806,Thursday,West,,,,,,9,,,,,,,0,,,,,0,0,8,['Eskimos', 'Roughriders', 'Tiger Cats', 'Stampeders', 'Eskimos', 'Alouettes', 'Lions', 'Argonauts'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,-1,1930,,,Blue Bombers,,,,,61,0
+,,,,,,,,20200807,Friday,East,,,,,,10,,,,,,,0,,,,,0,0,8,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts', 'Roughriders', 'Stampeders', 'Redblacks', 'Stampeders', 'Eskimos'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-3,1930,,,Tiger Cats,,,,,61,0
+,,,,,,,,20200807,Friday,East,,,,,,10,,,,,,,0,,,,,0,0,8,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Stampeders', 'Lions', 'Lions'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,1,1930,,,Alouettes,,,,,61,0
+,,,,,,,,20200808,Saturday,West,,,,,,10,,,,,,,0,,,,,0,0,8,['Roughriders', 'Lions', 'Alouettes', 'Lions', 'Blue Bombers', 'Argonauts', 'Tiger Cats', 'Alouettes', 'Tiger Cats'],,,,,,,,,,,1,,,,,,13,,,,,,2020,home,1,1900,,,Stampeders,,,,,61,0
+,,,,,,,,20200808,Saturday,East,,,,,,10,,,,,,,0,,,,,0,0,8,['Tiger Cats', 'Alouettes', 'Redblacks', 'Tiger Cats', 'Stampeders', 'Roughriders', 'Eskimos', 'Roughriders', 'Blue Bombers'],,,,,,,,,,,1,,,,,,7,,,,,,2020,away,2,1900,,,Argonauts,,,,,61,0
+,,,,,,,,20200808,Saturday,West,,,,,,9,,,,,,,0,,,,,0,0,8,['Stampeders', 'Blue Bombers', 'Alouettes', 'Tiger Cats', 'Lions', 'Argonauts', 'Argonauts', 'Redblacks'],,,,,,,,,,,1,,,,,,8,,,,,,2020,home,1,2200,,,Roughriders,,,,,61,0
+,,,,,,,,20200808,Saturday,West,,,,,,11,,,,,,,0,,,,,0,0,8,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders', 'Eskimos', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Alouettes', 'Alouettes'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,-1,2200,,,Lions,,,,,61,0
+,,,,,,,,20200813,Thursday,East,,,,,,11,,,,,,,0,,,,,0,0,8,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Stampeders', 'Lions', 'Lions', 'Tiger Cats'],,,,,,,,,,,1,,,,,,5,,,,,,2020,home,-1,1900,,,Alouettes,,,,,62,0
+,,,,,,,,20200813,Thursday,West,,,,,,10,,,,,,,0,,,,,0,0,8,['Stampeders', 'Blue Bombers', 'Alouettes', 'Tiger Cats', 'Lions', 'Argonauts', 'Argonauts', 'Redblacks', 'Lions'],,,,,,,,,,,1,,,,,,4,,,,,,2020,away,2,1900,,,Roughriders,,,,,62,0
+,,,,,,,,20200814,Friday,West,,,,,,10,,,,,,,0,,,,,0,0,8,['Eskimos', 'Roughriders', 'Tiger Cats', 'Stampeders', 'Eskimos', 'Alouettes', 'Lions', 'Argonauts', 'Redblacks'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,-2,2030,,,Blue Bombers,,,,,62,0
+,,,,,,,,20200814,Friday,West,,,,,,10,,,,,,,0,,,,,0,0,8,['Blue Bombers', 'Lions', 'Lions', 'Redblacks', 'Lions', 'Blue Bombers', 'Argonauts', 'Redblacks', 'Tiger Cats'],,,,,,,,,,,1,,,,,,13,,,,,,2020,away,1,2030,,,Eskimos,,,,,62,0
+,,,,,,,,20200815,Saturday,East,,,,,,11,,,,,,,0,,,,,0,0,8,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts', 'Roughriders', 'Stampeders', 'Redblacks', 'Stampeders', 'Eskimos', 'Alouettes'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,1,1900,,,Tiger Cats,,,,,62,0
+,,,,,,,,20200815,Saturday,East,,,,,,11,,,,,,,0,,,,,0,0,8,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos', 'Alouettes', 'Lions', 'Tiger Cats', 'Eskimos', 'Roughriders', 'Blue Bombers'],,,,,,,,,,,1,,,,,,8,,,,,,2020,away,1,1900,,,Redblacks,,,,,62,0
+,,,,,,,,20200815,Saturday,West,,,,,,12,,,,,,,0,,,,,0,0,8,['Eskimos', 'Stampeders', 'Eskimos', 'Stampeders', 'Eskimos', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Alouettes', 'Alouettes', 'Roughriders'],,,,,,,,,,,1,,,,,,6,,,,,,2020,home,-2,2200,,,Lions,,,,,62,0
+,,,,,,,,20200815,Saturday,West,,,,,,11,,,,,,,0,,,,,0,0,8,['Roughriders', 'Lions', 'Alouettes', 'Lions', 'Blue Bombers', 'Argonauts', 'Tiger Cats', 'Alouettes', 'Tiger Cats', 'Argonauts'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,2,2200,,,Stampeders,,,,,62,0
+,,,,,,,,20200820,Thursday,West,,,,,,12,,,,,,,0,,,,,0,0,8,['Roughriders', 'Lions', 'Alouettes', 'Lions', 'Blue Bombers', 'Argonauts', 'Tiger Cats', 'Alouettes', 'Tiger Cats', 'Argonauts', 'Lions'],,,,,,,,,,,1,,,,,,4,,,,,,2020,home,-1,2100,,,Stampeders,,,,,63,0
+,,,,,,,,20200820,Thursday,West,,,,,,11,,,,,,,0,,,,,0,0,8,['Eskimos', 'Roughriders', 'Tiger Cats', 'Stampeders', 'Eskimos', 'Alouettes', 'Lions', 'Argonauts', 'Redblacks', 'Eskimos'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,1,2100,,,Blue Bombers,,,,,63,0
+,,,,,,,,20200821,Friday,East,,,,,,12,,,,,,,0,,,,,0,0,8,['Redblacks', 'Argonauts', 'Stampeders', 'Roughriders', 'Redblacks', 'Blue Bombers', 'Stampeders', 'Lions', 'Lions', 'Tiger Cats', 'Roughriders'],,,,,,,,,,,1,,,,,,7,,,,,,2020,home,1,1900,,,Alouettes,,,,,63,0
+,,,,,,,,20200821,Friday,East,,,,,,12,,,,,,,0,,,,,0,0,8,['Alouettes', 'Tiger Cats', 'Argonauts', 'Eskimos', 'Alouettes', 'Lions', 'Tiger Cats', 'Eskimos', 'Roughriders', 'Blue Bombers', 'Tiger Cats'],,,,,,,,,,,1,,,,,,5,,,,,,2020,away,-1,1900,,,Redblacks,,,,,63,0
+,,,,,,,,20200822,Saturday,East,,,,,,11,,,,,,,0,,,,,0,0,8,['Tiger Cats', 'Alouettes', 'Redblacks', 'Tiger Cats', 'Stampeders', 'Roughriders', 'Eskimos', 'Roughriders', 'Blue Bombers', 'Stampeders'],,,,,,,,,,,1,,,,,,13,,,,,,2020,home,-1,1600,,,Argonauts,,,,,63,0
+,,,,,,,,20200822,Saturday,East,,,,,,12,,,,,,,0,,,,,0,0,8,['Argonauts', 'Redblacks', 'Blue Bombers', 'Argonauts', 'Roughriders', 'Stampeders', 'Redblacks', 'Stampeders', 'Eskimos', 'Alouettes', 'Redblacks'],,,,,,,,,,,1,,,,,,6,,,,,,2020,away,2,1600,,,Tiger Cats,,,,,63,0
+,,,,,,,,20200822,Saturday,West,,,,,,11,,,,,,,0,,,,,0,0,8,['Stampeders', 'Blue Bombers', 'Alouettes', 'Tiger Cats', 'Lions', 'Argonauts', 'Argonauts', 'Redblacks', 'Lions', 'Alouettes'],,,,,,,,,,,1,,,,,,8,,,,,,2020,home,-1,1900,,,Roughriders,,,,,63,0
+,,,,,,,,20200822,Saturday,West,,,,,,11,,,,,,,0,,,,,0,0,8,['Blue Bombers', 'Lions', 'Lions', 'Redblacks', 'Lions', 'Blue Bombers', 'Argonauts', 'Redblacks', 'Tiger Cats', 'Blue Bombers'],,,,,,,,,,,1,,,,,,7,,,,,,2020,away,-1,1900,,,Eskimos,,,,,63,0
